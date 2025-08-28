@@ -1,4 +1,4 @@
-## Hullo there, I'm Louise. 🙂🙂🙂🙂
+## Hi, I'm Louise. 🙂🙂🙂🙂
 - I am interested in robotics (mechanics, electronics, software, mobile robots, manipulators, legged), unmanned vehicles, AI and intelligent or autonomous systems, embedded systems, video games programming, simulators and digital twins, 2D art and animation, 3D modelling. I am interested to build robots and design digital worlds, clear plans, research, diagrams, peaceful music, and beautiful animations and art and comics.
 - I'm currently working on a Rover simulation in Gazebo Fortress and on a real life platform, and a C++ chess game with SFML.
 - I am learning more C++, robotics, and 3D modelling.
