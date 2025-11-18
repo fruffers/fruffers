@@ -1,5 +1,5 @@
 ## Welcome to my coding den.
-- I am interested in robotics (mechanics, electronics, software, mobile robots, manipulators, legged), unmanned vehicles, AI and intelligent or autonomous systems, embedded systems, video games programming, simulators and digital twins, 2D art and animation, 3D modelling. I am interested to build robots and design digital worlds, plans, research, write documents, diagrams, music, and animations and art and comics. I also like trains and the railway!
+- I am interested in robotics (mechanics, electronics, software, mobile robots, manipulators, legged), unmanned vehicles, AI and intelligent or autonomous systems, embedded systems, video games programming, simulators and digital twins, railway control systems, 2D art and animation, 3D modelling. I am interested to build robots and design digital worlds, plans, research, write documents, diagrams, music, and animations and art and comics. I also like trains and the railway!
 - I am currently working on a rover simulation in Gazebo Fortress and on a real life platform, and learning more C++ and Cmake.
 - I am learning more C++, robotics, and 3D modelling, along with big software architecture and network interfaces, railway signalling software.
 
