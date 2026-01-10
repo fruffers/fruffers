@@ -1,5 +1,5 @@
 ## Welcome to my coding den.
-- I am interested in art and animation, robotics, intelligent systems, making CAD models, writing good code, railway control systems, and more technical things like programming websites and mobile apps and video games and digital twins.
+- I am interested in art and animation, robotics, intelligent systems, making CAD models, writing good code, railway control systems, and more technical things like programming websites and mobile apps and video games and simulators.
 - I am currently working on a rover simulation in Gazebo and on a real life platform, and learning more C++ and Cmake.
 - I am learning more good software architecture, distributed software, inter-process communication, art, animation, CAD, manufacturing, robotics.
 
