@@ -1,7 +1,7 @@
 ## Welcome to my coding den.
-- I am interested in robotics and intelligent or autonomous systems, embedded systems, video games programming, simulators and digital twins, railway control systems, 2D art and animation, 3D modelling. I am interested to build robots and design digital worlds, plans, research, write documents, diagrams, music, and animations and art and comics. I also like trains and the railway!
-- I am currently working on a rover simulation in Gazebo Fortress and on a real life platform, and learning more C++ and Cmake.
-- I am learning more C++, robotics, C#, and 3D modelling, along with big software architecture and network interfaces/inter-process communication, and railway signalling software.
+- I am interested in art and animation, robotics, intelligent systems, making CAD models, writing good code, railway control systems, and more technical things like programming websites and mobile apps.
+- I am currently working on a rover simulation in Gazebo and on a real life platform, and learning more C++ and Cmake.
+- I am learning more good software architecture, distributed software, inter-process communication, art, animation, CAD, manufacturing, robotics.
 
 <!--
 **fruffers/fruffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
