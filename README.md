@@ -1,6 +1,5 @@
 ## Welcome to my coding den.
-- I am interested in art and animation, 3D models, robotics, intelligent systems, making CAD models, writing good code, railway control systems, and more technical things like programming websites and mobile apps and video games and simulators.
-- I am learning more about good software architecture.
+- I am interested in art and animation, engineering, and software development!
 
 <!--
 **fruffers/fruffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
