@@ -1,4 +1,4 @@
-## Welcome to my coding den.
+## Welcome to my coding den
 I am interested in art and animation, engineering, and software development! 💚
 
 <!--
