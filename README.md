@@ -1,5 +1,5 @@
 ## Welcome to my coding den.
-- I am interested in art and animation, engineering, and software development! 💚
+I am interested in art and animation, engineering, and software development! 💚
 
 <!--
 **fruffers/fruffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
